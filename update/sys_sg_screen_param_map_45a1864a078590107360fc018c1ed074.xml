@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Req type">68838ebd070950107360fc018c1ed099</item_parameter>
+        <screen display_value="By Request Type">f6b08a0a078590107360fc018c1ed051</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 14:46:40</sys_created_on>
+        <sys_id>45a1864a078590107360fc018c1ed074</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>68838ebd070950107360fc018c1ed099</sys_name>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_45a1864a078590107360fc018c1ed074</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 14:46:40</sys_updated_on>
+        <ui_parameter display_value="Request type">ff71024a078590107360fc018c1ed094</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

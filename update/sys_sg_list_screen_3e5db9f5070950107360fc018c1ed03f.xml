@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>View my NeedIt records from last quarter</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Square">265db9f5070950107360fc018c1ed03b</icon>
+        <name>NeedIt - Last Quarter</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 19:49:27</sys_created_on>
+        <sys_id>3e5db9f5070950107360fc018c1ed03f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt - Last Quarter</sys_name>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_3e5db9f5070950107360fc018c1ed03f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:19:57</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e5db9f5070950107360fc018c1ed03f"/>
+</record_update>

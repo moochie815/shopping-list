@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create New">decb428207c590107360fc018c1ed0aa</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>approval</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Description</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder>Enter a description</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 15:38:48</sys_created_on>
+        <sys_id>7a7c8e8207c590107360fc018c1ed098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_7a7c8e8207c590107360fc018c1ed098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:38:48</sys_updated_on>
+        <table_name>x_58872_needit_needit</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=7a7c8e8207c590107360fc018c1ed098"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</application>
+        <file_path/>
+        <instance_id>9ac34431db17338849eac597059619f2</instance_id>
+        <instance_name>dev91887</instance_name>
+        <name>sys_sg_ui_parameter_7a7c8e8207c590107360fc018c1ed098</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create New">decb428207c590107360fc018c1ed0aa</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>approval</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Description</name><order/><parameter_type>button</parameter_type><placeholder>Enter a description</placeholder><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-29 15:38:48</sys_created_on><sys_id>7a7c8e8207c590107360fc018c1ed098</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Description</sys_name><sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package><sys_policy/><sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope><sys_update_name>sys_sg_ui_parameter_7a7c8e8207c590107360fc018c1ed098</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-29 15:38:48</sys_updated_on><table_name>x_58872_needit_needit</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=7a7c8e8207c590107360fc018c1ed098"/></record_update>]]></payload>
+        <payload_hash>1037290859</payload_hash>
+        <record_name>Description</record_name>
+        <reverted_from/>
+        <source>456dc13d074550107360fc018c1ed0b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 15:38:48</sys_created_on>
+        <sys_id>709d8ec207c590107360fc018c1ed036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1726115f47e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:38:48</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>b89d8ec2e1c5901076aa38ccce62e835</update_guid>
+        <update_guid_history>b89d8ec2e1c5901076aa38ccce62e835:1037290859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 15:43:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>15109fb98fb4446e82c2a281a2aac919</sys_id>
+        <sys_metadata>7a7c8e8207c590107360fc018c1ed098</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_scope_delete display_value="">291865e5fedf46e08dd592f5fca74400</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_7a7c8e8207c590107360fc018c1ed098</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_7a7c8e8207c590107360fc018c1ed098">709d8ec207c590107360fc018c1ed036</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:43:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

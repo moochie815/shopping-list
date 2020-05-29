@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="NeedIt">fb4631b1070950107360fc018c1ed00e</applet_launcher>
+        <order>10</order>
+        <section display_value="My NeedIt">b876393d07c550107360fc018c1ed087</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 19:19:17</sys_created_on>
+        <sys_id>3c76393d07c550107360fc018c1ed08a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_3c76393d07c550107360fc018c1ed08a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 19:19:17</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

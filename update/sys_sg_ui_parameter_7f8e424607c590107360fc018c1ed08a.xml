@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Create New">decb428207c590107360fc018c1ed0aa</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Description</name>
+        <order>700</order>
+        <parameter_type>button</parameter_type>
+        <placeholder>Enter description</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 15:43:40</sys_created_on>
+        <sys_id>7f8e424607c590107360fc018c1ed08a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Shopping List" source="x_481311_shopping">0d6dc13d074550107360fc018c1ed0b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0d6dc13d074550107360fc018c1ed0b5</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_7f8e424607c590107360fc018c1ed08a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:43:40</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f8e424607c590107360fc018c1ed08a"/>
+</record_update>
